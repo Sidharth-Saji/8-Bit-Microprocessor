@@ -1,7 +1,5 @@
 # 8 Bit Microprocessor In Logisim
 
-BTech Sem 2 FINAL PROJECT 
-
 <br />Course : EE2080
 <br />Microprocessor Systems Design and Interface
 
@@ -18,8 +16,8 @@ TEAM ID : F02
 | Name of Team member  | Roll Number   |
 | -------------------- | ------------- |
 | SIDHARTH SAJI        | 122201026     |
-| NISHANT THAKUR       | 122201019     |
-| MORI YASHWANTH       | 122201042     |
+| Mohammed Azim        | 122201019     |
+| Kishore S K          | 122201042     |
 
 ## Project Overview
 
