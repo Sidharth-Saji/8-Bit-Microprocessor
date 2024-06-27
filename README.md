@@ -11,8 +11,6 @@
               <sub/>
 ## TEAM MEMBERS 
 
-TEAM ID : F02
-
 | Name of Team member  | Roll Number   |
 | -------------------- | ------------- |
 | SIDHARTH SAJI        | 122201026     |
